@@ -1,0 +1,17 @@
+$nomention
+$deletecommand
+$addField[Calculator;0]
+$color[#000000]
+$addButton[no;7;7;secondary;no;]
+$addButton[no;8;8;secondary;no;]
+$addButton[no;9;9;secondary;no;]
+$addButton[no;/;÷;primary;no;]
+$addButton[no;x;x;primary;no;]
+$addButton[yes;4;4;secondary;no;]
+$addButton[no;5;5;secondary;no;]
+$addButton[no;6;6;secondary;no;]
+$addButton[no;+;+;primary;no;]
+$addButton[no;-;-;primary;no;]
+$addButton[yes;1;1;secondary;no;]
+$addButton[no;2;2;secondary;no;]
+$addButton[no;3;3;secondary;no;]
